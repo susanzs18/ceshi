@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"dsasda");
+    NSLog(@"dsasda");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
